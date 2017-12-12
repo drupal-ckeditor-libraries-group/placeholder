@@ -3,7 +3,7 @@
  * For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
  */
 
-CKEDITOR.plugins.setLang( 'placeholder', 'en', {
+CKEDITOR.plugins.setLang( 'placeholder', 'en-au', {
 	title: 'Placeholder Properties',
 	toolbar: 'Placeholder',
 	name: 'Placeholder Name',
